@@ -1,0 +1,40 @@
+html {
+    background-color: rgb(179, 200, 201);
+    font-family: sans-serif;
+}
+
+h1.encabezado {
+    text-align: center;
+    color: rgb(28, 46, 46);
+    font-size: 40px;
+}
+
+h1.seccion {
+    background-color: rgb(107, 155, 156);
+    font-size: 30px;
+    text-decoration: underline;
+    color: rgb(56, 74, 75);
+}
+
+h2 {
+    background-color: rgb(126, 174, 175);
+    color: rgb(35, 90, 92);
+    font-style: italic;
+}
+
+span.datos {
+    color: rgb(44, 117, 119);
+}
+b {
+color: rgb(18, 131, 133);
+}
+
+p {
+    background-color: rgb(150, 179, 180);
+}
+p.pie {
+    background-color: white;
+    text-align: right;
+    font-style: italic;
+    font-weight: bold;
+}
